@@ -1,1 +1,0 @@
-# eric_application_packet
