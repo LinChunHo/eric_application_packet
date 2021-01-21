@@ -6,7 +6,10 @@ gitbook build => render ebook
 gitbook serve => start gitbook server
 
 ```
+```
+https://www.onejar99.com/gitbook-building-and-publishing-free-unlimitedly/
 
+```
 * [gitbook 安裝流程](https://www.itread01.com/content/1548646593.html)
 * [gitbook 使用手冊](https://wastemobile.gitbooks.io/gitbook-chinese/content/book/gitbook-cli.html)
 * [gitbook 設計資源](https://www.twblogs.net/a/5d1e10f4bd9eee1e5c835577)
